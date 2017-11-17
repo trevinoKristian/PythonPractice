@@ -1,0 +1,3 @@
+INSERT INTO kids
+Values
+('105', 'Test5', 'TestAproved', '08/13/1937', 'M',  '158 Maple Street', 'Ausin', 'TX', '78702');

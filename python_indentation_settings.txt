@@ -1,0 +1,21 @@
+The detailed description:
+
+Go to:
+
+View -> Indentation
+
+It should read:
+
+	Indent using spaces [x]
+
+	Tab width: 2
+Select:
+
+	Convert Indentation to Tabs
+
+Then Select:
+
+	Tab width: 4
+
+	Convert Indentation to Spaces
+Done.
